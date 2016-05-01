@@ -1,1 +1,1 @@
-Hello, world. I'm Hippo.
+Hello, world.
